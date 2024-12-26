@@ -23,15 +23,15 @@ namespace Assignments_asp.net
         {
             int a;
             int b;
-            a = Convert.ToInt32(TextBox1.Text); 
+            a = Convert.ToInt32(TextBox1.Text);
             if ((DropDownList1.SelectedValue == "1") && (DropDownList2.SelectedValue == "2"))
             {
-               b= a*9/ 5 + 32;
+                b = a * 9 / 5 + 32;
                 TextBox2.Text = b.ToString();
             }
             else if ((DropDownList1.SelectedValue == "1") && (DropDownList2.SelectedValue == "3"))
             {
-                b = a+ 273;
+                b = a + 273;
                 TextBox2.Text = b.ToString();
             }
             else if ((DropDownList1.SelectedValue == "2") && (DropDownList2.SelectedValue == "1"))
