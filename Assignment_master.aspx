@@ -29,7 +29,7 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">Assignment 1</a>
+                                <a class="nav-link active" href="assignment_01.aspx">Assignment 1</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active" href="#">Assignment 2</a>
