@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="A1_1.aspx" />
     <Content Include="A1_2.aspx" />
+    <Content Include="A1_3.aspx" />
     <Content Include="assignment_01.aspx" />
     <Content Include="Assignment_master.aspx" />
     <Content Include="Web.config" />
@@ -87,6 +88,13 @@
     </Compile>
     <Compile Include="A1_2.aspx.designer.cs">
       <DependentUpon>A1_2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="A1_3.aspx.cs">
+      <DependentUpon>A1_3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="A1_3.aspx.designer.cs">
+      <DependentUpon>A1_3.aspx</DependentUpon>
     </Compile>
     <Compile Include="assignment_01.aspx.cs">
       <DependentUpon>assignment_01.aspx</DependentUpon>
