@@ -72,6 +72,7 @@
     <Content Include="A1_3.aspx" />
     <Content Include="A1_4.aspx" />
     <Content Include="assignment_01.aspx" />
+    <Content Include="assignment_02.aspx" />
     <Content Include="Assignment_master.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -110,6 +111,13 @@
     </Compile>
     <Compile Include="assignment_01.aspx.designer.cs">
       <DependentUpon>assignment_01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="assignment_02.aspx.cs">
+      <DependentUpon>assignment_02.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="assignment_02.aspx.designer.cs">
+      <DependentUpon>assignment_02.aspx</DependentUpon>
     </Compile>
     <Compile Include="Assignment_master.aspx.cs">
       <DependentUpon>Assignment_master.aspx</DependentUpon>
