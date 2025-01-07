@@ -32,19 +32,22 @@
                                 <a class="nav-link active" href="assignment_01.aspx">Assignment 1</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">Assignment 2</a>
+                                <a class="nav-link active" href="assignment_02.aspx">Assignment 2</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">Assignment 3</a>
+                                <a class="nav-link active" href="assignment_03.aspx">Assignment 3</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">Assignment 4</a>
+                                <a class="nav-link active" href="assignment_04.aspx">Assignment 4</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">Assignment 5</a>
+                                <a class="nav-link active" href="assignment_05.aspx">Assignment 5</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">Assignment 6</a>
+                                <a class="nav-link active" href="assignment_06.aspx">Assignment 6</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="assignment_07.aspx">Assignment 7</a>
                             </li>
                         </ul>
                     </div>
